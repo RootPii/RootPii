@@ -1,9 +1,15 @@
 # Pravat Dash
 
-Blue Team | Detection & Incident Response | BTL1 Certified
+Blue Team Operations · Detection & Incident Response · BTL1 Certified
 
-Focused on SOC operations, threat analysis, and digital forensics.
-Building toward Purple Team with strong defensive depth.
+Ranked **#132 globally** on CyberDefenders · **50+ investigations** across endpoint, network, and cloud · 5 published writeups
+
+Currently active: working through detection labs, SIEM investigations, and forensics challenges
+
+- SIEM & Log Analysis (Splunk, Elastic Stack)
+- Incident Response & Alert Triage
+- Digital Forensics & Memory Analysis
+- Threat Detection & IOC Correlation
 
 ---
 
@@ -11,8 +17,7 @@ Building toward Purple Team with strong defensive depth.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravatdash27)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@RootPi27)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Rank_%23146-%23002244?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/RootPi)
-[![BTLO](https://img.shields.io/badge/Blue_Team_Labs_Online-%23003366?style=for-the-badge&logo=hackthebox&logoColor=white)](https://blueteamlabs.online/public/user/91be4325d0162f2e4b4e07)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Rank_%23132_Global-%23002244?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/RootPi)
 
 ---
 
@@ -24,7 +29,7 @@ Building toward Purple Team with strong defensive depth.
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-%23E8000B?style=for-the-badge&logo=target&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## Forensics & Threat Analysis
+## Forensics & Analysis
 
 ![Volatility](https://img.shields.io/badge/Volatility-%23333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-%23CC0000?style=for-the-badge&logo=linux&logoColor=white)
@@ -43,7 +48,7 @@ Building toward Purple Team with strong defensive depth.
 
 ## Certifications
 
-![BTL1](https://img.shields.io/badge/BTL1-Certified-%230a3d62?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![BTL1](https://img.shields.io/badge/BTL1-Certified_%E2%80%94_100%25_Score-%230a3d62?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-%234285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cisco Networking](https://img.shields.io/badge/Cisco_Networking_Basics-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white)
